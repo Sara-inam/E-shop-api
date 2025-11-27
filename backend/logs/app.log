@@ -829,3 +829,133 @@
 [2025-11-25 13:07:43] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
 [2025-11-25 13:07:43] INFO:  Pool Size → Min: 2, Max: 10
 [2025-11-25 13:07:43] INFO: Server running on port 5000
+[2025-11-26 16:12:14] INFO:  Database connected successfully
+[2025-11-26 16:12:14] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:12:14] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:12:14] INFO: Server running on port 5000
+[2025-11-26 16:17:53] INFO: undefined logged in: admin@gmail.com
+[2025-11-26 16:25:18] INFO:  Database connected successfully
+[2025-11-26 16:25:18] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:25:18] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:25:18] INFO: Server running on port 5000
+[2025-11-26 16:25:38] INFO:  Database connected successfully
+[2025-11-26 16:25:38] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:25:38] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:25:38] INFO: Server running on port 5000
+[2025-11-26 16:26:02] INFO:  Database connected successfully
+[2025-11-26 16:26:02] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:26:02] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:26:02] INFO: Server running on port 5000
+[2025-11-26 16:26:36] INFO:  Database connected successfully
+[2025-11-26 16:26:36] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:26:36] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:26:36] INFO: Server running on port 5000
+[2025-11-26 16:27:23] INFO: undefined logged in: admin@gmail.com
+[2025-11-26 16:28:53] INFO: undefined logged in: admin@gmail.com
+[2025-11-26 16:34:31] INFO:  Database connected successfully
+[2025-11-26 16:34:31] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:34:31] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:34:32] INFO: Server running on port 5000
+[2025-11-26 16:35:53] INFO:  Database connected successfully
+[2025-11-26 16:35:53] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:35:53] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:35:53] INFO: Server running on port 5000
+[2025-11-26 16:52:48] INFO:  Database connected successfully
+[2025-11-26 16:52:48] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-26 16:52:48] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-26 16:52:48] INFO: Server running on port 5000
+[2025-11-27 10:20:24] INFO:  Database connected successfully
+[2025-11-27 10:20:24] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:20:24] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:20:24] INFO: Server running on port 5000
+[2025-11-27 10:21:18] INFO: user logged in: admin@gmail.com
+[2025-11-27 10:22:58] INFO: user logged in: admin@gmail.com
+[2025-11-27 10:27:29] INFO: user logged in: admin@gmail.com
+[2025-11-27 10:30:02] INFO: admin logged in: admin@gmail.com
+[2025-11-27 10:33:32] INFO:  Database connected successfully
+[2025-11-27 10:33:32] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:33:32] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:33:32] INFO: Server running on port 5000
+[2025-11-27 10:34:12] INFO:  Database connected successfully
+[2025-11-27 10:34:12] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:34:12] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:34:12] INFO: Server running on port 5000
+[2025-11-27 10:36:31] INFO:  Database connected successfully
+[2025-11-27 10:36:31] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:36:31] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:36:31] INFO: Server running on port 5000
+[2025-11-27 10:37:27] INFO:  Database connected successfully
+[2025-11-27 10:37:27] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:37:27] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:37:27] INFO: Server running on port 5000
+[2025-11-27 10:38:06] INFO:  Database connected successfully
+[2025-11-27 10:38:06] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:38:06] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:38:06] INFO: Server running on port 5000
+[2025-11-27 10:40:21] INFO:  Database connected successfully
+[2025-11-27 10:40:21] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:40:21] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:40:21] INFO: Server running on port 5000
+[2025-11-27 10:54:45] INFO:  Database connected successfully
+[2025-11-27 10:54:45] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 10:54:45] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 10:54:45] INFO: Server running on port 5000
+[2025-11-27 11:07:46] INFO:  Database connected successfully
+[2025-11-27 11:07:46] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 11:07:46] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 11:07:46] INFO: Server running on port 5000
+[2025-11-27 11:10:46] INFO:  Database connected successfully
+[2025-11-27 11:10:46] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 11:10:46] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 11:10:46] INFO: Server running on port 5000
+[2025-11-27 11:28:43] INFO:  Database connected successfully
+[2025-11-27 11:28:43] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 11:28:43] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 11:28:43] INFO: Server running on port 5000
+[2025-11-27 13:50:05] INFO:  Database connected successfully
+[2025-11-27 13:50:05] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 13:50:05] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 13:50:05] INFO: Server running on port 5000
+[2025-11-27 13:52:13] INFO:  Database connected successfully
+[2025-11-27 13:52:13] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 13:52:13] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 13:52:13] INFO: Server running on port 5000
+[2025-11-27 13:52:32] INFO:  Database connected successfully
+[2025-11-27 13:52:32] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 13:52:32] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 13:52:32] INFO: Server running on port 5000
+[2025-11-27 13:54:52] INFO:  Database connected successfully
+[2025-11-27 13:54:52] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 13:54:52] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 13:54:52] INFO: Server running on port 5000
+[2025-11-27 14:10:06] INFO: admin logged in: admin@gmail.com
+[2025-11-27 14:50:56] INFO:  Database connected successfully
+[2025-11-27 14:50:56] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 14:50:56] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 14:50:56] INFO: Server running on port 5000
+[2025-11-27 14:56:16] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:01:39] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:12:09] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:16:32] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:16:33] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:18:09] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:20:33] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:20:34] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:21:45] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:22:19] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:22:49] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:24:12] INFO: admin logged in: admin@gmail.com
+[2025-11-27 15:53:49] ERROR: ❌ Database connection failed:
+[2025-11-27 15:54:39] INFO:  Database connected successfully
+[2025-11-27 15:54:39] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 15:54:39] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 15:54:39] INFO: Server running on port 5000
+[2025-11-27 16:00:00] INFO:  Database connected successfully
+[2025-11-27 16:00:00] INFO:  Mongo URI: mongodb+srv://sara_inam:bsit%40123@cluster0.8kw1x3g.mongodb.net/E-shop
+[2025-11-27 16:00:00] INFO:  Pool Size → Min: 2, Max: 10
+[2025-11-27 16:00:00] INFO: Server running on port 5000
+[2025-11-27 16:01:23] INFO: admin logged in: admin@gmail.com
+[2025-11-27 16:01:43] INFO: user logged in: ali@gmail.com
+[2025-11-27 16:02:17] INFO: admin logged in: admin@gmail.com
+[2025-11-27 16:37:30] INFO: user logged in: saadali50505@gmail.com
+[2025-11-27 16:38:03] INFO: admin logged in: admin@gmail.com
