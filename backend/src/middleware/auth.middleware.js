@@ -1,6 +1,6 @@
-import jwt from "jsonwebtoken";       // ⚠ Import missing
+import jwt from "jsonwebtoken";      
 import User from "../models/user.model.js";
-import config from "../../config.js";  // make sure JWT_SECRET is defined here
+import config from "../../config.js";  
 
 // Verify Token
 export const verifyToken = async (req, res, next) => {
